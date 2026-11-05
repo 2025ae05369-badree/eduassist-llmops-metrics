@@ -1,0 +1,21 @@
+# Secrets — never commit
+.env
+
+# Virtual environment
+.venv/
+
+# MLflow local stores
+mlruns/
+mlartifacts/
+mlflow.db
+
+# Hugging Face caches (if redirected into the project)
+.cache/
+hf_cache/
+huggingface/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
