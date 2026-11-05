@@ -1,0 +1,4 @@
+prompt_version,avg_latency_seconds,avg_input_tokens,avg_output_tokens,avg_cost_per_request,valid_json,recommended
+v1,18.869,51.2,413.8,0.0025824,0.0,No
+v2,12.063,73.2,270.2,0.0016956,0.0,No
+v3,5.638,107.2,123.4,0.00079175,1.0,Yes
